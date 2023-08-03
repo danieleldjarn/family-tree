@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family Tree/Persons/Petra Paarmann ().md",
+                "file": "Templates/{Person} ({Birth year} - {Death year}).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Family Tree/Persons/Petra Paarmann ().md",
+                "file": "Templates/{Person} ({Birth year} - {Death year}).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Family Tree/Persons/Petra Paarmann ().md",
+                "file": "Templates/{Person} ({Birth year} - {Death year}).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Family Tree/Persons/Petra Paarmann ().md"
+                "file": "Templates/{Person} ({Birth year} - {Death year}).md"
               }
             }
           }
@@ -175,6 +175,8 @@
   },
   "active": "bb7b3415ee57136e",
   "lastOpenFiles": [
+    "Family Tree/Persons/Petra Paarmann ().md",
+    "Family Tree/Persons/Untitled 1.md",
     "Family Tree/Persons/Marion Schron ().md",
     "Family Tree/Persons/Karl (Kalli) ().md",
     "Family Tree/Persons/Jón Baldvinsson ().md",
@@ -191,7 +193,6 @@
     "Family Tree/Persons/Birte Brow Sørensen (1919-1975).md",
     "Templates/{Person} ({Birth year} - {Death year}).md",
     "Untitled.canvas",
-    "Family Tree/Persons/Untitled 1.md",
     "Family Tree/Persons/Helle Brow Sørensen (1921).md",
     "Family Tree/Persons/Morten (1916-1916).md",
     "Family Tree/Persons/Inger Elise (Syssen) Brow Sørensen (1917-2010).md",
@@ -203,7 +204,6 @@
     "Family Tree/Persons/Gísli Jóhannsson (1958).md",
     "Family Tree/Persons/Arndís (Dísa) Jóhannsdóttir (1956).md",
     "Family Tree/Persons/Jón (Nonni) Jóhannsson (1955).md",
-    "Family Tree/Persons/Guðrún (Gunna) Jóhannsdóttir (1949).md",
     "Untitled 1.canvas",
     "Family Tree/Families",
     "Family Tree/Persons"
