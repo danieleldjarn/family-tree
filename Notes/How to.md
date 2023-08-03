@@ -1,0 +1,1 @@
+https://www.reddit.com/r/ObsidianMD/comments/tr1c31/tips_for_genealogy_and_biography_work_using/

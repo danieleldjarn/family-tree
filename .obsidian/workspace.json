@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "ed1d2b50f3cec85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d07462b647024044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f10ef0967788ae4a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Family Tree/Families/Family of Gerda and Frode.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3db23b739d508f6a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6198d3437e0ce923",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c9dea3cd423db3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644aeacf575566a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17a523e4f913313e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e7529047d79664e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 560.5
+  },
+  "right": {
+    "id": "2a49b5d4afc48020",
+    "type": "split",
+    "children": [
+      {
+        "id": "d483f3ebea4eaaba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6fc5985c33ffc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Family Tree/Families/Family of Gerda and Frode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89f9ce60b298a211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Family Tree/Families/Family of Gerda and Frode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a36a4c8f6c352c8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af235b6be50fd28c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Family Tree/Families/Family of Gerda and Frode.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "644aeacf575566a1",
+  "lastOpenFiles": [
+    "README.md",
+    "Family Tree/Persons/Daníel Eldjárn Vilhjálmsson (1990).md",
+    "Pasted image 20230802000052.png",
+    "Family Tree/Families/Family of Birte and Jóhann.md",
+    "Family Tree/Families/Family of Gerda and Frode.md",
+    "Family Tree/Persons/Mogens Jeppe Brow Sørensen (1922).md",
+    "Family Tree/Persons/Bjartur Hákonarson (2004).md",
+    "Family Tree/Persons/Birte Brow Sørensen (1919-1975).md",
+    "Templates/{Person} ({Birth year} - {Death year}).md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Family Tree/Persons/Untitled 1.md",
+    "Family Tree/Persons/Helle Brow Sørensen (1921).md",
+    "Family Tree/Persons/Morten (1916-1916).md",
+    "Family Tree/Persons/Inger Elise (Syssen) Brow Sørensen (1917-2010).md",
+    "Family Tree/Persons/Karlo (Karli)  Emerich Maria Sertic von Jezerane.md",
+    "Family Tree/Persons/Jóhann Kristinn Jónsson (1912-2000).md",
+    "Family Tree/Persons/Ari Högnason (2002).md",
+    "Family Tree/Persons/Frode Christian Sørensen (1886-1964).md",
+    "Family Tree/Persons/Gerda Bodil Johanne Andersen (1889-1964).md",
+    "Family Tree/Persons/Gísli Jóhannsson (1958).md",
+    "Family Tree/Persons/Arndís (Dísa) Jóhannsdóttir (1956).md",
+    "Family Tree/Persons/Jón (Nonni) Jóhannsson (1955).md",
+    "Family Tree/Persons/Guðrún (Gunna) Jóhannsdóttir (1949).md",
+    "Family Tree/Persons/Gerður Jóhannsdóttir (1948).md",
+    "Family Tree/Families/Family of Sigríður and Karl.md",
+    "Templates/Family of {Parent 1 - First Name} and {Parent 2 - First Name}.md",
+    "Family Tree/Persons/Jón Baldvinsson (-).md",
+    "Untitled 1.canvas",
+    "Family Tree/Families",
+    "Family Tree/Persons"
+  ]
+}

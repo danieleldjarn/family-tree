@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#family",
+      "color": {
+        "a": 1,
+        "rgb": 16722217
+      }
+    },
+    {
+      "query": "#person",
+      "color": {
+        "a": 1,
+        "rgb": 3035647
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 2.710302734375,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.461100260416667,
+  "repelStrength": 20,
+  "linkStrength": 0.912190755208333,
+  "linkDistance": 212,
+  "scale": 0.4734962284749923,
+  "close": true
+}
