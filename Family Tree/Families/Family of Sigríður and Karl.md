@@ -2,7 +2,7 @@
 
 ## Parents
 - [[Sigríður (Sigga) Jóhannsdóttir (1953)]]
-- [[Karl (Kalli) (-)]]
+- [[Karl (Kalli) ()]]
 
 ## Children
 - Vilhjálmur Karlsson

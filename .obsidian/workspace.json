@@ -30,9 +30,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "bb7b3415ee57136e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Family Tree/Persons/Petra Paarmann ().md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Family Tree/Persons/Petra Paarmann ().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Family Tree/Persons/Petra Paarmann ().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Family Tree/Persons/Petra Paarmann ().md"
+              }
             }
           }
         ]
@@ -157,8 +173,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3db23b739d508f6a",
+  "active": "bb7b3415ee57136e",
   "lastOpenFiles": [
+    "Family Tree/Persons/Marion Schron ().md",
+    "Family Tree/Persons/Karl (Kalli) ().md",
+    "Family Tree/Persons/Jón Baldvinsson ().md",
     "README.md",
     "home.md",
     "Home.md",
@@ -185,8 +204,6 @@
     "Family Tree/Persons/Arndís (Dísa) Jóhannsdóttir (1956).md",
     "Family Tree/Persons/Jón (Nonni) Jóhannsson (1955).md",
     "Family Tree/Persons/Guðrún (Gunna) Jóhannsdóttir (1949).md",
-    "Family Tree/Persons/Gerður Jóhannsdóttir (1948).md",
-    "Family Tree/Families/Family of Sigríður and Karl.md",
     "Untitled 1.canvas",
     "Family Tree/Families",
     "Family Tree/Persons"

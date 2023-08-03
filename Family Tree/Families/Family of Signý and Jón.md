@@ -2,7 +2,7 @@
 
 ## Parents
 - [[Signý Jóhannsdóttir (1951)]]
-- [[Jón Baldvinsson (-)]]
+- [[Jón Baldvinsson ()]]
 
 ## Children
 - Baldvin

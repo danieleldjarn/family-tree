@@ -2,7 +2,7 @@
 
 ## Parents
 - [[Högni Fróðason (1969)]]
-- [[Petra Paarmann (-)]]
+- [[Petra Paarmann ()]]
 
 ## Children
 - [[Mímir Högnason (1998)]]
