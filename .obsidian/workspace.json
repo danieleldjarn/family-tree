@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/{Person} ({Birth year} - {Death year}).md",
+                "file": "Family Tree/Families/Family of Guðrún and Parent 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/{Person} ({Birth year} - {Death year}).md",
+                "file": "Family Tree/Families/Family of Guðrún and Parent 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/{Person} ({Birth year} - {Death year}).md",
+                "file": "Family Tree/Families/Family of Guðrún and Parent 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/{Person} ({Birth year} - {Death year}).md"
+                "file": "Family Tree/Families/Family of Guðrún and Parent 2.md"
               }
             }
           }
@@ -173,8 +173,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "bb7b3415ee57136e",
+  "active": "644aeacf575566a1",
   "lastOpenFiles": [
+    "Templates/{Person} ({Birth year} - {Death year}).md",
     "Family Tree/Persons/Petra Paarmann ().md",
     "Family Tree/Persons/Untitled 1.md",
     "Family Tree/Persons/Marion Schron ().md",
@@ -191,7 +192,6 @@
     "Family Tree/Persons/Mogens Jeppe Brow Sørensen (1922).md",
     "Family Tree/Persons/Bjartur Hákonarson (2004).md",
     "Family Tree/Persons/Birte Brow Sørensen (1919-1975).md",
-    "Templates/{Person} ({Birth year} - {Death year}).md",
     "Untitled.canvas",
     "Family Tree/Persons/Helle Brow Sørensen (1921).md",
     "Family Tree/Persons/Morten (1916-1916).md",
